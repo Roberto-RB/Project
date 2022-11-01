@@ -1,0 +1,12 @@
+D:\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+D:\Project3\x64\Debug\Project3.exe
+D:\Project3\x64\Debug\Project3.MyForm.resources
+D:\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\rchur\OneDrive\Anexos\Documentos\PAVIC_TRAIN\app_pp_cuda\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\rchur\OneDrive\Anexos\Documentos\PAVIC_TRAIN\app_pp_cuda\x64\Debug\Project3.MyForm.resources
+C:\Users\rchur\OneDrive\Anexos\Documentos\PAVIC_TRAIN\app_pp_cuda\x64\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\rchur\OneDrive\Anexos\Documentos\PAVIC_TRAIN\app_pp_cuda\x64\Debug\Project3.exe
+C:\Users\rchur\OneDrive\Anexos\Documentos\PAVIC_TRAIN\app_cuda_cpu\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\rchur\OneDrive\Anexos\Documentos\PAVIC_TRAIN\app_cuda_cpu\x64\Debug\Project3.MyForm.resources
+C:\Users\rchur\OneDrive\Anexos\Documentos\PAVIC_TRAIN\app_cuda_cpu\x64\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\rchur\OneDrive\Anexos\Documentos\PAVIC_TRAIN\app_cuda_cpu\x64\Debug\Project.exe
